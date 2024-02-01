@@ -2,7 +2,7 @@
 ## Supported platforms:
 Linux with apt package manager
 ## Instalation:
-1. Run ``curl https://cdn.kitki30.tk/Bash/TewServer.sh | bash``
+1. Run ``curl https://cdn.kitki30.tk/Bash/installer.sh | bash``
 2. Installer will install needed dependencies
 3. Run ``server.sh`` in ``/home/{YourUser}/TheEarthWarServer/`` directory!
 4. Application will create needed directories and configs
